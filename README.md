@@ -1,3 +1,3 @@
-# CNNs_353
+# CNNs
 
-Code for training models used in ENPH353 class competition. 
+Code for training models to line follow in ROS and perform license plate classification.
